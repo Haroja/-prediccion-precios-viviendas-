@@ -43,6 +43,12 @@ Los valores faltantes en el conjunto de datos se rellenan con la mediana de la c
 2.  **Instala las dependencias:** `pip install -r requirements.txt`
 3.  **Ejecuta la aplicación Streamlit:** `streamlit run viviendas_streamlit.py`
 
+ # Ver la Aplicación en Streamlit Cloud
+
+Puedes ver la aplicación en funcionamiento aquí:
+
+[![Streamlit App] https://pviviendas.streamlit.app
+
 ## Archivos Incluidos
 
 * `homeprices.csv`:  El conjunto de datos de precios de la vivienda.
@@ -59,5 +65,5 @@ Los valores faltantes en el conjunto de datos se rellenan con la mediana de la c
 
 ## Autor
 
-[Horacio Adrián Roja]
+Horacio Adrián Roja
 
